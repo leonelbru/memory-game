@@ -27,9 +27,3 @@ Simples, interativo e divertido para treinar lógica de programação e manipula
   - Eventos de clique
   - Manipulação de classes
   - Sistema de tempo e pontuação
-
----
-
-## Demonstração
-
-👉 [Clique aqui para jogar](https://leonelbru.github.io/memory-game/)  
